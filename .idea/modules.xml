@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaInterfaceMonitor.iml" filepath="$PROJECT_DIR$/JavaInterfaceMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInterfaceMonitor-core/JavaInterfaceMonitor-core.iml" filepath="$PROJECT_DIR$/JavaInterfaceMonitor-core/JavaInterfaceMonitor-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInterfaceMonitor-SDK/JavaInterfaceMonitor-sdk.iml" filepath="$PROJECT_DIR$/JavaInterfaceMonitor-SDK/JavaInterfaceMonitor-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInterfaceMonitor-web/JavaInterfaceMonitor-web.iml" filepath="$PROJECT_DIR$/JavaInterfaceMonitor-web/JavaInterfaceMonitor-web.iml" />
+    </modules>
+  </component>
+</project>
